@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+models/
+
+# Streamlit
+.streamlit/
+
+# Database
+data/chroma_db/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/

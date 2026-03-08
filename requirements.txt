@@ -1,0 +1,29 @@
+# Phase 1: Knowledge Base & RAG Engine
+pymupdf4llm
+chromadb
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+
+# Phase 2: Tool Development & IoT Integration 
+fastapi
+uvicorn
+pyserial
+requests
+
+# Phase 3: Agent Reasoning System
+langgraph
+
+# Phase 4: Deployment & Observability 
+llama-cpp-python
+streamlit
+
+# Phase 5: Evaluation & Metrics
+ragas
+pytest
+
+# Phase 8: Plant Stage Vision Integration
+torch
+torchvision
+Pillow
